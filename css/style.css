@@ -48,6 +48,7 @@ h1 {
 }
 
 table {
+    width: 100%;
     border-collapse: collapse;
     text-align: left;
     vertical-align: middle;
@@ -55,8 +56,15 @@ table {
 }
 
 th {
+    width: 25%;
     color: white;
 }
+
+td {
+    width: 25%;
+}
+
+.t-50 {width: 50%;}
 
 .table-header {
     background-color: #20a9e5;
