@@ -1,5 +1,7 @@
-body {height: 100vh;
-margin: 0;}
+body {
+    height: 100vh;
+    margin: 0;
+}
 
 .webpage-header {
     height: 70px;
@@ -11,11 +13,46 @@ margin: 0;}
     background-position-y: 2%;
 }
 
-.logo {width: 10%;
+.logo {
+    width: 10%;
     padding-top: 70px;
     position: absolute;
     left: 5px;
-    bottom: 8px;
-   
+    bottom: 8px;  
 }
 
+.text-header {margin: 5px;}
+
+h1 {
+    margin-bottom: 0;
+    font-size: 25px;
+}
+
+.author.date {
+    font-size: 12px;
+    color: gray;
+    margin-top: 3px;
+    margin-bottom: 20px;
+
+}
+
+
+.author-name {color: #2aade6;}
+
+.photo-description {
+    font-size: 8px;
+}
+
+.giallo {
+    background-color: yellow ;
+}
+
+th {
+    color: white;
+}
+
+.table-header {background-color: #20a9e5;}
+
+.table-body {background-color: #b1e5f2;}
+
+.footer-pic {display: block;}
