@@ -21,7 +21,9 @@ body {
     bottom: 8px;  
 }
 
-.text-header {margin: 5px;}
+.text-header {
+    margin: 5px;
+}
 
 h1 {
     margin-bottom: 0;
@@ -33,11 +35,12 @@ h1 {
     color: gray;
     margin-top: 3px;
     margin-bottom: 20px;
-
 }
 
 
-.author-name {color: #2aade6;}
+.author-name {c
+    olor: #2aade6;
+}
 
 .photo-description {
     font-size: 8px;
@@ -52,7 +55,6 @@ table {
     border-collapse: collapse;
     text-align: left;
     vertical-align: middle;
-    
 }
 
 th {
@@ -64,7 +66,9 @@ td {
     width: 25%;
 }
 
-.t-50 {width: 50%;}
+.t-50 {
+    width: 50%;
+}
 
 .table-header {
     background-color: #20a9e5;
