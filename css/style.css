@@ -25,7 +25,7 @@ body {
 
 h1 {
     margin-bottom: 0;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .author.date {
@@ -47,12 +47,57 @@ h1 {
     background-color: yellow ;
 }
 
+table {
+    border-collapse: collapse;
+    text-align: left;
+    vertical-align: middle;
+    
+}
+
 th {
     color: white;
 }
 
-.table-header {background-color: #20a9e5;}
+.table-header {
+    background-color: #20a9e5;
+}
 
-.table-body {background-color: #b1e5f2;}
+.table-body {
+    background-color: #b1e5f2;
+}
 
-.footer-pic {display: block;}
+main {
+    margin: 5px;
+}
+
+footer {
+    margin: 5px;
+    margin-top: 25px;
+}
+
+.tips {
+    color: gray;
+    font-size: 15px;
+    font-weight: bold;
+
+}
+
+.footer-pic {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.footer-container {
+    position: relative;
+    margin-top: 12px;
+}
+
+.footer-pic-text {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    color: white;
+    font-size: 23px;
+    font-weight: bold;
+}
+
