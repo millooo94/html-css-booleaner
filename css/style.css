@@ -1,0 +1,21 @@
+body {height: 100vh;
+margin: 0;}
+
+.webpage-header {
+    height: 70px;
+    background-color: #4ea0ff;
+    background-image: url(../img/pattern.png);
+    background-size: 20%;
+    position: relative;
+    background-position-x: 4.5%;
+    background-position-y: 2%;
+}
+
+.logo {width: 10%;
+    padding-top: 70px;
+    position: absolute;
+    left: 5px;
+    bottom: 8px;
+   
+}
+
