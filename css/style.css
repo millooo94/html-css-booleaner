@@ -1,16 +1,15 @@
 body {
-    height: 100vh;
     margin: 0;
+    padding: 0;
 }
 
 .webpage-header {
     height: 70px;
     background-color: #4ea0ff;
     background-image: url(../img/pattern.png);
-    background-size: 20%;
+    background-size: 270px;
     position: relative;
-    background-position-x: 4.5%;
-    background-position-y: 2%;
+    background-position-x: 5%;
 }
 
 .logo {
@@ -46,6 +45,7 @@ h1 {
     font-size: 8px;
 }
 
+
 .giallo {
     background-color: yellow ;
 }
@@ -70,11 +70,11 @@ td {
     width: 50%;
 }
 
-.table-header {
+.table-dark {
     background-color: #20a9e5;
 }
 
-.table-body {
+.table-light {
     background-color: #b1e5f2;
 }
 
@@ -116,3 +116,4 @@ footer {
     font-size: 23px;
     font-weight: bold;
 }
+
