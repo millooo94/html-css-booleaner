@@ -91,7 +91,11 @@ footer {
     color: gray;
     font-size: 15px;
     font-weight: bold;
+}
 
+
+.pics-container {
+    margin-top: 12px;
 }
 
 .footer-pic {
@@ -99,9 +103,9 @@ footer {
     margin-bottom: 10px;
 }
 
-.footer-container {
+.monitor-graph-text {
     position: relative;
-    margin-top: 12px;
+    margin-bottom: 2px;
 }
 
 .footer-pic-text {
@@ -112,4 +116,3 @@ footer {
     font-size: 23px;
     font-weight: bold;
 }
-
